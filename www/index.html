@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Главная страница
     </title>
-    <link rel="stylesheet" href="./css/vendors.min.css">
+    <link rel="stylesheet" href="cssendors.min.css">
     <link rel="stylesheet" href="../css/main.min.css">
   </head>
   <body>
@@ -15,7 +15,7 @@
         <section class="section hero">
           <div class="container">
             <header class="header">
-              <div class="header__logo"><a class="logo" href="#"><img class="logo__icon" src="./img/icons/logo.svg"></a></div>
+              <div class="header__logo"><a class="logo" href="#"><img class="logo__icon" src="img/lo"></a></div>
               <div class="header__menu">
                 <nav class="nav">
                   <ul class="nav__list">
@@ -360,11 +360,12 @@
             </li>
           </ul>
         </section>
+
         <section class="section order">
           <div class="container">
             <div class="section__title">Закажите доставку</div>
             <div class="order__form">
-              <form class="order__form-tag" id="order-form">
+              <form class="order__form-tag" id="order-form" action="form.php" method="post">
                 <div class="order__form-col">
                   <div class="order__form-row order__form-row_double">
                     <label class="order__form-block">
@@ -442,6 +443,7 @@
             </div>
           </div>
         </section>
+
         <section class="section map">
           <div class="yandex-map" id="map"></div>
           <footer class="footer">
@@ -479,7 +481,7 @@
     <div class="full-review popup" id="full-review"><a class="full-review__close" href="#"><svg id="icon" xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
 	<path fill-rule="evenodd" clip-rule="evenodd" fill="#E45028"
 	      d="M9.831 7.494l4.673-4.673A1.651 1.651 0 1 0 12.167.484L7.494 5.157 2.82.483A1.653 1.653 0 0 0 .483 2.82l4.673 4.673-4.673 4.673a1.653 1.653 0 0 0 2.337 2.337L7.493 9.83l4.673 4.673c.646.646 1.691.646 2.337 0s.646-1.691 0-2.337L9.831 7.494z"/>
-</svg></a>
+        </svg></a>
       <div class="full-review__inner">
         <div class="full-review__title">Констнтин Спилберг</div>
         <div class="full-review__content">
@@ -498,8 +500,8 @@
         <div class="status-popup__message error-message">Произошла ошибка</div><a class="status-popup__close btn" href="#">Закрыть</a>
       </div>
     </div>
-    <script src="./js/vendors.min.js"></script>
+    <script src="jsendors.min.js"></script>
     <script src="https://api-maps.yandex.ru/2.1/?lang=ru_RU" type="text/javascript"></script>
-    <script src="./js/main.min.js"></script>
+    <script src="jsain.min.js"></script>
   </body>
 </html>

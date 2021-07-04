@@ -1,7 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bdaf762-be45-4f16-aa0b-f796dea276f3" name="Default Changelist" comment="" />
+    <list default="true" id="3bdaf762-be45-4f16-aa0b-f796dea276f3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/www/form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/css/main.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/vendors.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/css/vendors.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Gagalin-Regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/www/fonts/Gagalin-Regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Lifehack-Medium.woff" beforeDir="false" afterPath="$PROJECT_DIR$/www/fonts/Lifehack-Medium.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Ubuntu-Light.woff" beforeDir="false" afterPath="$PROJECT_DIR$/www/fonts/Ubuntu-Light.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Ubuntu-Medium.woff" beforeDir="false" afterPath="$PROJECT_DIR$/www/fonts/Ubuntu-Medium.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/ubuntu-b-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/www/fonts/ubuntu-b-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg/best.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/bg/best.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg/footer.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/bg/footer.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg/hero-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/bg/hero-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg/menu.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/bg/menu.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg/menu/diets.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/bg/menu/diets.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg/menu/meats.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/bg/menu/meats.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg/menu/vegans.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/bg/menu/vegans.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg/order.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/bg/order.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg/team.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/bg/team.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/content/burger.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/content/burger.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/content/burgers/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/content/burgers/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/content/burgers/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/content/burgers/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/content/burgers/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/content/burgers/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/content/burgers/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/content/burgers/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/content/reviews/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/content/reviews/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/content/reviews/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/content/reviews/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/content/reviews/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/content/reviews/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/content/reviews/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/content/reviews/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/content/reviews/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/content/reviews/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/content/reviews/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/content/reviews/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/content/reviews/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/content/reviews/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/content/reviews/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/content/reviews/8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/content/teammate.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/content/teammate.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/_svg-sprite.svg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/icons/_svg-sprite.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/arrow-scroll.svg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/icons/arrow-scroll.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/beef.svg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/icons/beef.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/buns.svg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/icons/buns.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/burger.svg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/icons/burger.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/check.svg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/icons/check.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/cheese.svg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/icons/cheese.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/close.svg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/icons/close.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/cucumber.svg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/icons/cucumber.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/drops.svg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/icons/drops.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/fb.svg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/icons/fb.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/hand.svg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/icons/hand.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/inst.svg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/icons/inst.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/kkal.svg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/icons/kkal.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/icons/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/map-marker.svg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/icons/map-marker.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/mark.png" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/icons/mark.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/mark.svg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/icons/mark.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/meat.svg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/icons/meat.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/natural.svg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/icons/natural.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/phone.svg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/icons/phone.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/salad.svg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/icons/salad.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/sauce.svg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/icons/sauce.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/twitter.svg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/icons/twitter.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons/vk.svg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/icons/vk.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sprite/sprite.svg" beforeDir="false" afterPath="$PROJECT_DIR$/www/img/sprite/sprite.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/js/main.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/vendors.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/js/vendors.min.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,17 +91,27 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ufVdPoSNzplZel7FzgzDkgEF6j" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\loftschool-php-3-2\www" />
+      <recent name="C:\OpenServer\domains\loftschool-php-3-2" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -31,16 +122,83 @@
       <option name="presentableId" value="Default" />
       <updated>1625056716402</updated>
       <workItem from="1625056717424" duration="354000" />
+      <workItem from="1625307116967" duration="682000" />
+      <workItem from="1625307814116" duration="5351000" />
+      <workItem from="1625382848081" duration="11363000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="673" y="425" key="#SQL_Dialects" timestamp="1625309855870">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="673" y="425" key="#SQL_Dialects/0.0.1920.1160@0.0.1920.1160" timestamp="1625309855870" />
+    <state x="552" y="238" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1625308022396">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="552" y="238" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1625308022396" />
+    <state x="740" y="335" key="FileChooserDialogImpl" timestamp="1625307801720">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="740" y="335" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1625307801720" />
+    <state width="584" height="321" key="GridCell.Tab.0.bottom" timestamp="1625310698912">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="584" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1625310698912" />
+    <state width="584" height="321" key="GridCell.Tab.0.center" timestamp="1625310698911">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="584" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1625310698911" />
+    <state width="584" height="321" key="GridCell.Tab.0.left" timestamp="1625310698911">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="584" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1625310698911" />
+    <state width="584" height="321" key="GridCell.Tab.0.right" timestamp="1625310698912">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="584" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1625310698912" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1625307705642">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1920.1160@0.0.1920.1160" timestamp="1625307705642" />
     <state x="461" y="225" key="SettingsEditor" timestamp="1625056840995">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="461" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1625056840995" />
+    <state x="1302" y="460" width="316" height="246" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1625383381659">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="1302" y="460" width="316" height="246" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1160@0.0.1920.1160" timestamp="1625383381659" />
+    <state x="756" y="400" width="408" height="355" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1625383391448">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="756" y="400" width="408" height="355" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1625383391448" />
+    <state x="701" y="252" width="645" height="620" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1625383657121">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="701" y="252" width="645" height="620" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1625383657121" />
+    <state x="92" y="92" width="1736" height="976" key="dock-window-1" timestamp="1625307694002">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="92" y="92" width="1736" height="976" key="dock-window-1/0.0.1920.1160@0.0.1920.1160" timestamp="1625307694002" />
+    <state x="1103" y="260" width="672" height="678" key="search.everywhere.popup" timestamp="1625385549423">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="1103" y="260" width="672" height="678" key="search.everywhere.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1625385549423" />
   </component>
 </project>
